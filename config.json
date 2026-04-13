@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "MPU6050 6 轴陀螺仪",
+		"en": "MPU6050 6 Axis Gyro Sensor"
+	},
+	"description": {
+		"zh-cn": "MPU6050六轴陀螺仪模块",
+		"en": " MPU6050 Six axis gyro sensor"
+	},
+	"author": "Jason_Wang",
+	"email": "1780572040@qq.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "MPU6050",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["esp32s3bit","esp32","pico"],
+			"main": "main.ts"
+		}
+	}
+}
