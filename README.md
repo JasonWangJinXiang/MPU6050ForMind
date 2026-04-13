@@ -14,9 +14,9 @@
 * [Supported targets](#Supportedtargets)
 
 ## URL
-* Project URL : ```https://github.com/DFRobot/ext-oled12864```
+* Project URL : ```https://github.com/JasonWangJinXiang/MPU6050ForMind```
 
-* Tutorial URL : ```https://mindplus.dfrobot.com.cn/extensions-user```
+* Tutorial URL : 
 
 * Get a purchase connection: [store](https://www.dfrobot.com/).
 
