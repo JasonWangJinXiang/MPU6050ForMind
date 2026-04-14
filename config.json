@@ -7,7 +7,7 @@
 		"zh-cn": "MPU6050六轴陀螺仪模块",
 		"en": " MPU6050 Six axis gyro sensor"
 	},
-	"author": "Jason_Wang",
+	"author": "JasonWang",
 	"email": "1780572040@qq.com",
 	"license": "MIT",
 	"isBoard": false,
