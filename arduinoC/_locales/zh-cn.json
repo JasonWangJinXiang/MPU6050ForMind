@@ -6,7 +6,20 @@
     "oled12864.setLineWidth|block": "设置线宽为 [WIDTH] 像素",
     "oled12864.getLineWidth|block": "获取线宽",
     "oled12864.buttonIsPressed|block": "按钮 [BUTTON] 被按下？",
-	"oled12864.notTrue|block": "非 [Flag]",
+    "oled12864.notTrue|block": "非 [Flag]",
     "oled12864.SIZE.1|menu": "29*29(1)",
-    "oled12864.SIZE.2|menu": "58*58(2)"
+    "oled12864.SIZE.2|menu": "58*58(2)",
+    "mpu6050.init|block": "初始化 [MPUS] 地址 [ADDS] 接口 [I2C]",
+    "mpu6050.update|block": "更新mpu  [MPUS] 数据",
+    "mpu6050.getGyroX|block": "获取 [MPUS] X轴 陀螺仪",
+    "mpu6050.getGyroY|block": "获取 [MPUS] Y轴 陀螺仪",
+    "mpu6050.getGyroZ|block": "获取 [MPUS] Z轴 陀螺仪",
+    "mpu6050.getAccAngleX|block": "获取 [MPUS] X轴 加速度倾角",
+    "mpu6050.getAccAngleY|block": "获取 [MPUS] Y轴 加速度倾角",
+    "mpu6050.getAngleX|block": "获取 [MPUS] X轴 姿态角",
+    "mpu6050.getAngleY|block": "获取 [MPUS] Y轴 姿态角",
+    "mpu6050.getAngleZ|block": "获取 [MPUS] Z轴 姿态角",
+    "mpu6050.getAccX|block": "获取 [MPUS] X轴 加速度",
+    "mpu6050.getAccY|block": "获取 [MPUS] Y轴 加速度",
+    "mpu6050.getAccZ|block": "获取 [MPUS] Z轴 加速度"
 }
