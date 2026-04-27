@@ -12,13 +12,21 @@
 	"license": "MIT",
 	"isBoard": false,
 	"id": "MPU6050",
-	"platform": ["win", "mac", "web"],
-	"version": "0.0.1",
+	"platform": [
+		"win",
+		"mac",
+		"web"
+	],
+	"version": "0.0.2",
 	"asset": {
 		"arduinoC": {
 			"dir": "arduinoC/",
 			"version": "0.0.1",
-			"board": ["esp32s3bit","esp32","pico"],
+			"board": [
+				"esp32s3bit",
+				"esp32",
+				"pico"
+			],
 			"main": "main.ts"
 		}
 	}
